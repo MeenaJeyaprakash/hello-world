@@ -12,7 +12,7 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="alternate email"><b>Enter Alternate Email</b></label>
+    <label for="alternate-email"><b>Enter-Alternate Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
